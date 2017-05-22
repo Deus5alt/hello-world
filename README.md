@@ -5,10 +5,12 @@ My goal is to be able to seamlessly integrate the various new Microsoft 365 apps
 
 Some goals to consider:
 
-1)Learn about webhooks
-2)Learn about API's
-3)Learn Microsoft PowerApps
-4)Master use of Flows
+1) Learn about webhooks
+2) Learn about API's
+3) Learn Microsoft PowerApps
+4) Master use of Flows
+5) Learn to sandbox the environment so as not to make bad changes (VMware?)
+6) Figure out other needs to make it work
 
-A)Get the Microsoft Planner to be able to trigger Flows to send notifications to admins in Teams when tasks are completed and it automatically takes files uploaded into the channel and mirrors them into SharePoint.
-B)Please create Flow to automatically send an email with the link to directly access a Planner Task whenever it has been assigned to someone. 
+A) Get the Microsoft Planner to be able to trigger Flows to send notifications to admins in Teams when tasks are completed and it automatically takes files uploaded into the channel and mirrors them into SharePoint.
+B) Please create Flow to automatically send an email with the link to directly access a Planner Task whenever it has been assigned to someone. 
